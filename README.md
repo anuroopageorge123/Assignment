@@ -8,6 +8,8 @@ Usage:com.util.PalindromeGenerator $inputString.
 
 For example: 
 1. com.util.PalindromeGenerator kayak 
+
+
 Output: 
 
 kayak,0,5
