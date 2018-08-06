@@ -12,6 +12,6 @@ Output:
 kayak,0,5
 aya,1,3
 
-2.com.util.PalindromeGenerator abc
+2. com.util.PalindromeGenerator abc
 Unable to find substring which is a palindrome
 
